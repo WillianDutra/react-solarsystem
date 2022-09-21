@@ -80,9 +80,9 @@ header {
 }
 
 .hr {
-  margin: 0;
   border: 1px solid gray;
   color: gray;
+  margin: 0;
   width: 100%;
 }
 
