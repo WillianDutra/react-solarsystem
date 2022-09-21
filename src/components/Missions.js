@@ -15,7 +15,6 @@ class Missions extends React.Component {
           destination={ mission.destination }
           key={ i }
         />))}
-        <MissionCard />
       </div>
     );
   }
