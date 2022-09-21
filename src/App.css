@@ -6,3 +6,9 @@ body {
 header {
   text-align: center;
 }
+
+#solar-system {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
