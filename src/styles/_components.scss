@@ -17,11 +17,48 @@
 }
 
 .planet-card {
+  display: flex;
   flex-wrap: nowrap;
   justify-content: center;
 
   img {
     width: 130px;
-
   }
+}
+
+.mission-card {
+  align-items: center;
+  background-color: $bg-card;
+  border: 1.5px solid $border-color;
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 18px;
+  margin: 10px;
+  text-align: left;
+  width: 44%;
+}
+
+.icon {
+  font-size: 16px;
+  margin: auto;
+}
+
+.name {
+  font-size: 26px;
+  margin-left: 20px;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.year {
+  width: 15%;
+}
+
+.country {
+  width: 40%;
+}
+
+.destination {
+  width: 20%;
 }
