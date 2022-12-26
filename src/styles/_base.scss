@@ -1,0 +1,15 @@
+html,
+body {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  color: $title-color;
+  font-family: 'Epilogue', sans-serif;
+  height: 100%;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  padding-top: 20px;
+  width: 100%;
+}
