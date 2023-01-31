@@ -8,3 +8,5 @@ Este projeto visa apresentar informações sobre missões espaciais passadas e f
 - CSS/Sass: para estilizar a aparência da página.
 - JavaScript: para implementar a lógica da aplicação.
 - HTML: para estruturar a página.
+
+![Aplicacao Solar-System](./solar-system.png)
